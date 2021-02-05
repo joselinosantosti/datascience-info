@@ -1,9 +1,9 @@
 # Links para conteudos do mundos dos dados
-# Big Data
-# DataScience
-# Análise de dados
-# Inteligência Artificial
-# Estatística
+* Big Data
+* DataScience
+* Análise de dados
+* Inteligência Artificial
+* Estatística
 
 # Sites
 https://towardsdatascience.com
