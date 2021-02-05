@@ -1,4 +1,7 @@
-# site datascience
- Site com conteúdos de DataScience, Big Data e Inovação.
- 
- Link: https://joselinosantosti.github.io/site-datascience/index.html
+# Links para conteudos do mundos dos dados
+Big Data
+DataScience
+Análise de dados
+Inteligência Artificial
+Estatística
+
