@@ -93,3 +93,5 @@ https://powerbi.microsoft.com/pt-br/guided-learning/
 53. ISLR
 
 
+## Artigos e Novidades
+https://hypescience.com/deepmind-alphafold-estrutura-proteinas/
